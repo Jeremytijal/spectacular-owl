@@ -6,6 +6,7 @@ tags: []
 image_alt: lorem-ipsum
 excerpt: lorem-ipsum
 layout: post
+image: /images/4.png
 ---
 ## Lorem ipsum
 
